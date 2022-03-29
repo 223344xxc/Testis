@@ -1,0 +1,19 @@
+﻿  Block.cpp
+  GameBlock.cpp
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\GameBlock.cpp(27,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\GameBlock.cpp(87,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\GameBlock.cpp(97,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Main.cpp
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\Main.cpp(25,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\Main.cpp(75,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\Main.cpp(75,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\Main.cpp(81,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\Main.cpp(112,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\Main.cpp(136,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MainMap.cpp
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\MainMap.cpp(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\MainMap.cpp(138,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\MainMap.cpp(144,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Pot_Tetris\MainMap.cpp(152,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  Pot_Tetris.vcxproj -> D:\포트폴리오 모음\이진서 포트폴리오\테트리스\게임파일\Pot_Tetris\Debug\Pot_Tetris.exe
